@@ -1,0 +1,5 @@
+{
+  "name": "CollabCanvas AI",
+  "description": "A real-time collaborative whiteboard with Gemini AI assistance. Open in multiple tabs to test collaboration. Ask AI to analyze your drawing or even draw for you!",
+  "requestFramePermissions": []
+}
